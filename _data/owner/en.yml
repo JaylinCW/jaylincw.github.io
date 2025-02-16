@@ -2,7 +2,7 @@
 # Owner's Personal Information
 ###########################################################
 # This is your brand name
-brand: "Your Brand"
+brand: "Jaylin Cooke-Williams"
 
 # text below the brand name
 brand_sub_text: "$site_sample"
@@ -50,7 +50,7 @@ meta_common_description: "Your meta description."
 contacts:
   #- github: ""
   #- email: ""
-  #- linkedin: ""
+  - linkedin: "http://linkedin.com/in/jaylin-cooke-williams/"
   #- twitter: ""
   #- mastodon: ""
   #- instagram: ""
